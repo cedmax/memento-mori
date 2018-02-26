@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "./baseline.scss";
+import "gutenberg-web-type/src/style/gutenberg.css";
 import "./index.css";
 import { initNotifications, isPushSupported } from "./notification-setup";
 import "./iubenda-setup";
