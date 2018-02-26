@@ -1,0 +1,41 @@
+body {
+  background: #222;
+  color: white;
+  max-width: 90%;
+  margin: auto;
+}
+
+a {
+  color: white !important;
+}
+
+.footer {
+  margin-bottom: 7em;
+}
+
+.privacy {
+  position: absolute;
+  margin:0
+}
+
+.single .privacy {
+  position: relative;
+  text-align: center;
+}
+
+#iubenda-pp, #iubenda-pp *,
+#iubenda-pp-overlay {
+  max-width: 100% !important;
+}
+
+.alert {
+  text-align:center;
+  line-height: 1.5;
+  display: block;
+  border-radius: 3px;
+  background-color: #e0eff7;
+  border: 2px solid #2c91c9;
+  color: #2c91c9;
+  padding: .7rem;
+  opacity: .9;
+}
