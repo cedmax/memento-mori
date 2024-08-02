@@ -89,8 +89,9 @@ class App extends Component {
           <p className="attention-grabber">
             <strong>Memento Mori</strong> <em>as a Service</em> provides a
             recurring notification of our ephemeral state. Signing up (clicking
-            on the bell on the bottom right of the page) will deliver you a
-            notification every few days, with a quote like...
+            on the bell on the bottom right of the page – you might have to
+            disable your adblocker) will deliver you a notification every few
+            days, with a quote like...
           </p>
 
           <figure>
@@ -120,7 +121,7 @@ class App extends Component {
           <p>
             I believe that a reminder of what is eventually going to happen will
             let me appreciate everything else a little bit more and I'm sure
-            some peple won't mind joining me.
+            some people won't mind joining me.
           </p>
         </main>
         <footer className="footer">
